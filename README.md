@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: React-based open source produce a project.
-- ⚡ Fun fact: I love playing games, i like swimming , reding.
+- ⚡ Fun fact: I love playing games, i like swimming , I also like to chat with my friends on the beach.
 
 
 ### Connect with me:
