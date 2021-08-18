@@ -4,7 +4,7 @@
 ## I'm a Jr. Frontend Developer
 
 - 👨‍💻 I'm learning about React - React Native - Node.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I think i'm learning a lot right now 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: React-based open source produce a project.
 - ⚡ Fun fact: I love playing games, i like swimming , I also like to chat with my friends on the beach.
