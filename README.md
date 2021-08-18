@@ -3,7 +3,7 @@
 
 ## I'm a Jr. Frontend Developer
 
-- 👨‍💻 I'm learning about Mern Stack.
+- 👨‍💻 I'm learning about React - React Native - Node.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: React-based open source produce a project.
