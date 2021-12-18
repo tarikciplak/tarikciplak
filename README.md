@@ -1,15 +1,6 @@
 ### Hi there, I'm Tarik 👋
 
 
-## I'm a Jr. Frontend Developer
-
-- 👨‍💻 I'm learning about React - React Native - Node.
-- 🌱 I think i'm learning a lot right now 🤣
-- 👯 I'm interested in edX courses
-- 🥅 2021 Goals: React-based open source produce projects.
-- ⚡ Fun fact: I love playing games, i like swimming , I also like to chat with my friends on the beach.
-
-
 ### Connect with me:
 
 
