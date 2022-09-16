@@ -16,7 +16,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>> <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescript.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://user-images.githubusercontent.com/48831110/130464408-cb64b3b7-11cf-458f-a45e-10afddfe207f.png" alt="nodejs" width="45" height="45"/> </a> 
- <a href="https://jira.com" target="_blank"> <img src="https://assets.materialup.com/uploads/a9b735c4-9c54-4f5b-a2f2-6d7b83a0b74e/preview.png" alt="jira" width="45" height="45"/> </a> </p>
+  </p>
 
 <br />!
 
